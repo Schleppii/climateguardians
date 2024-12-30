@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root{--main-bgcolour: #00838f;
+    --second-bgcolour: #00bcd4;
+    --hover-colour: #000725;
+--fs1: 20px;
+--fs2: 30px;
+--fs3: 40px;
+--fs4: 50px;}
+html{
+    font-family: outfit;
+}
